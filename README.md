@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @Melyssaaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+boas vindas ao meu perfil☺️
 
-<!---
-Melyssaaa/Melyssaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![](link)
+meu nome e melyssa🎀
+
+- estou estudando na [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaco para minha organizacao e compartilhamento dos meu projetos desenvolvidos
+
+- ### voce pode entrar em contato comigo:
+
+
+-00001126273648sp@al.educacao.sp.gov.br
+
+
+![]()![image](https://github.com/user-attachments/assets/241ffdd8-33ac-417d-b41d-1a841d873a15)
+
